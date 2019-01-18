@@ -24,8 +24,8 @@ div {
 section {
   border: 1px solid black;
   background-color: #808080;
-  width: 90%;
-  height: 160px;
+  width: auto;
+  height: auto;
   margin-right: auto;
   margin-left: auto;
   font-family: Comic Sans MS, Comic Sans;
