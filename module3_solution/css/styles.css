@@ -113,31 +113,63 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 8em;
   font-size: 1.5em;
   font-weight: bold;
 }
 
-.box{
+#Chicken{
    background: #808080;
    color: #000000;
    overflow: hidden;
    padding: 10px;  
-   width:100%; 
-   height: auto;
-   width: 100%;
  }
 
- .box h3{
+ #Chicken h3{
   font-family: 'Lora', serif;
   color: #000000;
   align-content: center;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 8em;
   font-size: 1.3em;
   font-weight: bold;
 }
+
+#Beef{
+   background: #808080;
+   color: #000000;
+   overflow: hidden;
+   padding: 10px;  
+ }
+
+ #Beef h3{
+  font-family: 'Lora', serif;
+  color: #000000;
+  align-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+#Sushi{
+   background: #808080;
+   color: #000000;
+   overflow: hidden;
+   padding: 10px;  
+ }
+
+ #Sushi h3{
+  font-family: 'Lora', serif;
+  color: #000000;
+  align-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
 
 
